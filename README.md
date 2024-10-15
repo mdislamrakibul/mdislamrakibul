@@ -14,9 +14,17 @@ Welcome to My GitHub Profile!
   <img src="https://komarev.com/ghpvc/?username=mdislamrakibul&color=blue" alt="Profile Views" />
 </p>
 <hr/>
+<p>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
-</samp>
+</samp>	
+</p>
+
+## 🏆 Github Profile Trophy
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdislamrakibul" alt="mdislamrakibul"/></a> 
+</p>
+
 
 ## 🔥 Streak Stats
 
@@ -32,10 +40,20 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdislamrakibul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdislamrakibul&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <p align="center">
+ <a href="#"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdislamrakibul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="#"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdislamrakibul&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+   
+  </p>
+   
   <br/>
-  
+
+  <p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdislamrakibul&theme=radical" alt="Rakib's GitHub Contribution"/>
+  </a>
+</p>
+
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdislamrakibul)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
