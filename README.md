@@ -7,9 +7,10 @@ Welcome to My GitHub Profile!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I+am+Rakibul+Islam;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
-<!--   <a href="https://zobkazi.github.io">
-    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0" alt="CodeTime Badge" />
-  </a> -->
+<!-- 	<a href="https://zobkazi.github.io">
+    	<img src="https://img.shields.io/endpoint?	style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29812%26project%3D%26in=0" alt="CodeTime Badge" />
+  	</a> -->
+<a href="https://wakatime.com/@4177a5bf-55d2-4eb6-ab91-528b9592f810"><img src="https://wakatime.com/badge/user/4177a5bf-55d2-4eb6-ab91-528b9592f810.svg" alt="Total time coded since Oct 12 2024" /></a>
   <img src="https://komarev.com/ghpvc/?username=mdislamrakibul&color=blue" alt="Profile Views" />
 </p>
 <hr/>
@@ -43,9 +44,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 ## ⏱️ WakaTime Stats
 
-<details>
-  <summary>Click to expand Stats </summary>
-
  <p align="center">
   <a href="https://zobkazi.github.io/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdislamrakibul&layout=pie&theme=algolia" />
@@ -53,10 +51,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
    
   <a href="https://zobkazi.github.io/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdislamrakibul&layout=compact&theme=algolia" />
-  </a>
+  </a
 </p>
 
-</details>
 
 ---
 
@@ -80,8 +77,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+<!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
+<!--     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -124,12 +121,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://mdislamrakibul.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+<!-- 	<a href="https://mdislamrakibul.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
 	<a href="https://github.com/mdislamrakibul" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mdislamrakibul/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/mdislamrakibul/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mdislamrakibul/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/mdislamrakibul/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a
+	<a href="mailto:rakibul.nexkraft@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@mdislamrakibul's Holopin board](https://holopin.me/mdislamrakibul)](https://holopin.io/@mdislamrakibul)
