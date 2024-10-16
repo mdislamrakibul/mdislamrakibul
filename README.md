@@ -10,7 +10,7 @@ Welcome to My GitHub Profile!
 	<a href="https://zobkazi.github.io">
     	<img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29812%26project%3D%26in=0" alt="CodeTime Badge" />
   	</a>
-<!-- <a href="https://wakatime.com/@4177a5bf-55d2-4eb6-ab91-528b9592f810"><img src="https://wakatime.com/badge/user/4177a5bf-55d2-4eb6-ab91-528b9592f810.svg" alt="Total time coded since Oct 12 2024" /></a> -->
+ <a href="https://wakatime.com/@4177a5bf-55d2-4eb6-ab91-528b9592f810"><img src="https://wakatime.com/badge/user/4177a5bf-55d2-4eb6-ab91-528b9592f810.svg" alt="Total time coded since Oct 12 2024" /></a>
   <img src="https://komarev.com/ghpvc/?username=mdislamrakibul&color=blue" alt="Profile Views" />
 </p>
 <hr/>
