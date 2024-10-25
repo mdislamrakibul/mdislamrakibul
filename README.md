@@ -20,9 +20,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </samp>	
 </p>
 
-## 🏆 Github Profile Trophy
+## 🏆 GitHub Profile Trophy
 <p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdislamrakibul" alt="mdislamrakibul"/></a> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdislamrakibul&theme=flat&margin-w=10&margin-h=10" alt="mdislamrakibul"/></a> 
 </p>
 
 
