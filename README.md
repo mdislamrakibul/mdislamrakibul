@@ -26,9 +26,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </p>
 
 
-## 🔥 Streak Stats
+ ## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakib's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdislamrakibul&theme=monokai-metallian&hide_border=true"/>
